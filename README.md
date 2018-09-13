@@ -52,7 +52,7 @@ from sklearn.cluster import AgglomerativeClustering
 
 ```
 ### Highlights 
-**1. Does Airbnb price go against or go with Superhost?**
+**1. Does Airbnb price go against or go with Superhost?**<br>
 'Superhosts' are experienced hosts who provide a shining example for other hosts, and extraordinary experiences for their guests. Once a host reaches Superhost status, a badge will automatically appear on their listing and profile to help you identify them.
 Airbnb says that "Superhosts earn 22% more than other hosts* and benefit from a variety of rewards."
 >After running regression to predict airbnb rent price for host, I found that superhost in more competitive regions charge higer rent than superhost in less competitive regions
